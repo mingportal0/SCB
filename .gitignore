@@ -1,0 +1,9 @@
+### Gradle ###
+.gradle
+
+### STS ###
+.classpath
+.factorypath
+.project
+.settings
+
